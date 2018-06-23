@@ -11,6 +11,7 @@ def HelloWorld():
 
 def LunchTime():
     print("Let's have some lunch.")
+    print("What should we eat?")
     
 def main():
     HelloWorld()
