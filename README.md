@@ -1,3 +1,3 @@
 # ActivityBoard
 
-Testing
+This is a test project.
