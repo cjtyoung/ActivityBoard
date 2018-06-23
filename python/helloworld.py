@@ -7,6 +7,7 @@ Created on Sat Jun 23 10:49:17 2018
 
 def HelloWorld():
     print("Hello World!")
+    print("This is Colin")
     
 def main():
     HelloWorld()
